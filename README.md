@@ -2,7 +2,7 @@
 
 [![Tests](https://github.com/unpaved028/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/unpaved028/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/unpaved028/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/unpaved028/scoop-bucket/actions/workflows/excavator.yml)
 
-[ClipTyper](https://github.com/unpaved028/ClipTyper) types clipboard text as keystrokes where paste is blocked: VM consoles, iLO/iDRAC, KVM-over-IP, RDP and paste-blocked fields.
+[ClipTyper](https://github.com/unpaved028/ClipTyper) types clipboard text as keystrokes where paste is not available: VM consoles, iLO/iDRAC, KVM-over-IP and remote sessions without a shared clipboard.
 
 ## Install
 
